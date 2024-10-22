@@ -2,7 +2,8 @@
 
 ```py
 jordanaescalona = {
-    "lenguajes": ["python","JavaScript","HTML","CSS"],
+    "code": ["python","JavaScript","HTML","CSS"],
+    "tools":["React"],
 }
 ```
 
