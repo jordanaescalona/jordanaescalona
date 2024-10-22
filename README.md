@@ -8,9 +8,13 @@ jordanaescalona = {
 }
 ```
 ### You can find me 🌐
-- [Blog](https://jordanaescalona.github.io/portfolio/)
-- [Instagram]
-- [Youtube](https://www.youtube.com/@escalonajordana2090)
+>- [Blog](https://jordanaescalona.github.io/portfolio/)
+>- [Instagram]
+>- [Youtube](https://www.youtube.com/@escalonajordana2090)
+
+>[!NOTE]
+> Una nota
+
 <!--
 **jordanaescalona/jordanaescalona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
