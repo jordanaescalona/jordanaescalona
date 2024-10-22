@@ -1,10 +1,10 @@
 ## Hi there, i'm Jordana 🙌👩‍💻
 
-´´´python
+```py
 jordanaescalona = {
     "lenguajes": ["python","JavaScript","HTML","CSS"],
 }
-´´´
+```
 
 <!--
 **jordanaescalona/jordanaescalona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
